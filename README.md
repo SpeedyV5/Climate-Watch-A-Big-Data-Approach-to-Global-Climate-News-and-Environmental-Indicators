@@ -1,0 +1,2 @@
+# Climate-Watch-A-Big-Data-Approach-to-Global-Climate-News-and-Environmental-Indicators
+Aims to bridge the gap between media coverage of climate change and scientific realities by combining large-scale news data with environmental datasets. Through distributed data processing and time series modeling, it seeks to uncover trends, correlations, and potential future scenarios in climate discourse and actual climate indicators.
